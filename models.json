@@ -6,7 +6,7 @@
       "apiKey": "OMLX_API_KEY",
       "models": [
        {
-          "id": "qwen3.6-35b-a3b",
+          "id": "Qwen3.6-35B-A3B-4bit",
           "name": "Qwen3.6-35B-A3B (MoE, local MLX)",
           "reasoning": true,
           "input": ["text", "image"],
